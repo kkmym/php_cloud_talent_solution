@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.4",
+        "google/cloud-talent": "^0.9.1",
+        "google/gax": "^1.3"
+    }
+}
